@@ -1,0 +1,8 @@
+﻿  StudentsManager.cpp
+D:\HP\Documents\2Code\学籍管理系统\StudentsManager.cpp(1351,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\HP\Documents\2Code\学籍管理系统\StudentsManager.cpp(1368,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\HP\Documents\2Code\学籍管理系统\StudentsManager.cpp(933): warning C4715: “StudentsManager::AccurateSearchCo”: 不是所有的控件路径都返回值
+D:\HP\Documents\2Code\学籍管理系统\StudentsManager.cpp(752): warning C4715: “StudentsManager::AccurateSearchInt”: 不是所有的控件路径都返回值
+D:\HP\Documents\2Code\学籍管理系统\StudentsManager.cpp(1338): warning C4715: “StudentsManager::divideLevel”: 不是所有的控件路径都返回值
+D:\HP\Documents\2Code\学籍管理系统\StudentsManager.cpp(1380): warning C4715: “isChinese”: 不是所有的控件路径都返回值
+  学籍管理系统.vcxproj -> D:\HP\Documents\2Code\学籍管理系统\Debug\学籍管理系统.exe

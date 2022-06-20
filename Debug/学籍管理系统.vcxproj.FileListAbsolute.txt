@@ -1,0 +1,3 @@
+C:\Users\L\Desktop\程序实验设计\学籍管理系统\学籍管理系统\Debug\学籍管理系统.exe
+C:\Users\L\Desktop\程序实验设计\学籍管理系统\学籍管理系统\Debug\学籍管理系统.pdb
+D:\HP\Documents\2Code\学籍管理系统\Debug\学籍管理系统.exe
